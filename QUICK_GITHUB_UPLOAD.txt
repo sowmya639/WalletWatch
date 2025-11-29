@@ -1,0 +1,49 @@
+═══════════════════════════════════════════════════════════
+  WALLETWATCH - QUICK GITHUB UPLOAD COMMANDS
+═══════════════════════════════════════════════════════════
+
+📋 COPY AND PASTE THESE COMMANDS:
+
+1. Open Command Prompt in WalletWatch folder
+
+2. Run these commands one by one:
+
+   git init
+   
+   git add .
+   
+   git commit -m "Initial commit: WalletWatch - Personal Budget Tracker"
+
+3. Create repository on GitHub:
+   → Go to: https://github.com/new
+   → Name: WalletWatch
+   → Click "Create repository"
+
+4. Connect and push (replace YOUR-USERNAME):
+
+   git remote add origin https://github.com/YOUR-USERNAME/WalletWatch.git
+   
+   git branch -M main
+   
+   git push -u origin main
+
+═══════════════════════════════════════════════════════════
+
+🔐 AUTHENTICATION:
+When prompted for password, use Personal Access Token:
+→ Get token: https://github.com/settings/tokens
+→ Generate new token (classic)
+→ Select: repo scope
+→ Copy token and paste when asked for password
+
+═══════════════════════════════════════════════════════════
+
+✅ VERIFY:
+After upload, visit:
+https://github.com/YOUR-USERNAME/WalletWatch
+
+═══════════════════════════════════════════════════════════
+
+📖 FULL GUIDE: See GITHUB_UPLOAD_GUIDE.md
+
+═══════════════════════════════════════════════════════════
