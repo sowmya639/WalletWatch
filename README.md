@@ -1,6 +1,6 @@
 # WalletWatch - Personal Budget & Expense Tracking Application
 
-A full-stack MERN application for tracking expenses, managing budgets, and receiving SMS alerts when approaching spending limits.
+A full-stack application for tracking expenses, managing budgets, and receiving SMS alerts when approaching spending limits.
 
 ## Features
 
